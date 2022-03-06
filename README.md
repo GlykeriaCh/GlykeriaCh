@@ -11,15 +11,9 @@ A Data Analyst from Greece
 
 ✉️ My email: chantziaraglukeria@gmail.com
 
-
-<a href="https://github.com/GlykeriaCh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GlykeriaCh&layout=compact&theme=radical" />
-</a>
-
-
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+🔗 You can find me, also, on LinkedIn  [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
@@ -27,3 +21,9 @@ You can find me on [![LinkedIn][3.2]][3].
 
 <!-- Links to your social media accounts -->
 [3]: https://www.linkedin.com/in/glukeria-chantziara/
+
+
+<a href="https://github.com/GlykeriaCh">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GlykeriaCh&layout=compact&theme=radical" />
+</a>
+
