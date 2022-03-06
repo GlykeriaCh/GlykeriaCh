@@ -1,4 +1,5 @@
-Hi 👋, I'm Glykeria
+# Hello, I'm Glykeria! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 A Data Analyst from Greece
 
@@ -9,3 +10,9 @@ A Data Analyst from Greece
 👩‍💻	You can find my projects here in github.
 
 ✉️ My email: chantziaraglukeria@gmail.com
+
+
+<a href="https://github.com/GlykeriaCh">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GlykeriaCh&layout=compact&theme=radical" />
+</a>
+
