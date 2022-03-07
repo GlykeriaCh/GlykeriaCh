@@ -37,5 +37,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GlykeriaCh)](https://github.com/GlykeriaCh/github-readme-stats)
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="600" style="vertical-align:top; margin:4px">
+<p align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="500" style="vertical-align:top; margin:4px">
+ </p>
 
