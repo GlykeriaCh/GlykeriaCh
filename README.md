@@ -21,8 +21,6 @@
 <!-- Links to your social media accounts -->
 [3]: https://www.linkedin.com/in/glukeria-chantziara/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlykeriaCh&layout=compact)](https://github.com/GlykeriaCh/github-readme-stats)
 
-<a href="https://github.com/GlykeriaCh">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GlykeriaCh&layout=compact&theme=radical" />
-</a>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GlykeriaCh)](https://github.com/GlykeriaCh/github-readme-stats)
